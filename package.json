@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "frappe-charts": "1.5.8"
+    "frappe-charts": "1.6.3"
   },
   "devDependencies": {
     "vuepress": "^1.8.2",
